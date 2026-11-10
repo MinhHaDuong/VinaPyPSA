@@ -1,0 +1,5 @@
+# Large or third-party data: see upstream/README.TXT
+data/
+data-*/
+upstream/
+__pycache__/
