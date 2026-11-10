@@ -12,3 +12,6 @@ Dinh Thanh Viet, Duong Minh Quang, Vo Van Phuong, Ma Phuoc Khanh, Chau Minh Than
 ## Contact
 Dr. Minh Ha-Duong, directeur de recherche CIRED/CNRS
 http://minh.haduong.com        minh.haduong@vietsevn
+
+## Running
+Extract `upstream/vietnam3.tar.xz` (third-party dataset, not in git, see `upstream/README.TXT`) as `data/`, then `python3 main.py`. It solves the first day; edit the snapshot slice in `main.py` for a week or the full 2015-2016 year. Dataset description: `docs/`.
